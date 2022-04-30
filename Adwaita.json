@@ -1,0 +1,56 @@
+{
+    "manifest": {
+        "author": "ÜberNihilist#8417",
+        "name": "Adwaita",
+        "version": "1.0.0",
+        "license": "GPL 3.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -13290187,
+        "background_secondary": -13816531,
+        "blocked_bg": -13619152,
+        "input_background": -14145496,
+        "statusbar": -13816531,
+        "accent": -16732172
+    },
+    "colors": {
+        "brand_new": -14980405,
+        "brand_new_230": -14980405,
+        "link": -16732172,
+        "brand_new_360": -12868259,
+        "transparent": -13553359,
+        "primary_dark_100": -13553359,
+        "primary_dark_400": -6511958,
+        "primary_dark_800": -13553359,
+        "uikit_btn_bg_color_selector_red": -14980405,
+        "primary_600": -13290187,
+        "primary_630": -12961222,
+        "primary_660": -11909819,
+        "primary_dark_700": -13816531,
+        "brand_new_560": -14980405,
+        "link_500": -16732172,
+        "white_800": -14145496,
+        "primary_light_800": -263430,
+        "primary_light_700": -855825,
+        "primary_light_660": -11577760,
+        "primary_light_400": -4670529,
+        "primary_light_200": -13355980,
+        "primary_light_600": -11577760,
+        "primary_dark_600": -13487566,
+        "primary_light_100": -3223858,
+        "primary_700": -14671323,
+        "white_500": -2234634,
+        "white_alpha_10": -1644826,
+        "primary_dark_900": -14671323,
+        "uikit_settings_item_text_color_light": -13816531
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -13487566,
+        "drawable_overlay_channel_pressed_dark": -13290187,
+        "drawable_overlay_channels_selected_light": -592396,
+        "drawable_overlay_channel_pressed_light": -1381654
+    },
+    "raws": {}
+}
