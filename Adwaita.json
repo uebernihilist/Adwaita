@@ -3,7 +3,8 @@
         "author": "ÜberNihilist#8417",
         "name": "Adwaita",
         "version": "1.0.0",
-        "license": "GPL 3.0"
+        "license": "GPL 3.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/uebernihilist\/Adwaita\/master\/Adwaita.json"
     },
     "background": {},
     "fonts": {},
