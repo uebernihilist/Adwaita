@@ -6,4 +6,4 @@ Adwaita theme for Aliucord
 
 Spoilers are broken☠️
 
-![preview](https://cdn.discordapp.com/attachments/943943344546017340/969919758147420200/Untitled100_20220430140324.png)
+![image](https://user-images.githubusercontent.com/73707238/166249886-f22ff7e8-9523-4455-a971-239194a41937.png)
